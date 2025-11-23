@@ -1,0 +1,16 @@
+
+========== REPORT CARD ==========
+Name: Kishan Kumar
+Roll No.: 45672
+Class: Sec f
+----------------------------------
+Maths : 75
+Science : 84
+English : 86
+Computer : 74
+History : 65
+----------------------------------
+Total Marks: 384
+Percentage: 76.80%
+Grade: C
+==================================
