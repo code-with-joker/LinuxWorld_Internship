@@ -26,7 +26,7 @@ if not contacts:
 
 print("Contacts Loaded:", contacts)
 
-print("\n===== BULK WHATSAPP SENDER =====\n")
+print("\n------------ BULK WHATSAPP SENDER ---------------\n")
 message = input("Enter message: ")
 count = int(input("How many messages to send?: "))
 

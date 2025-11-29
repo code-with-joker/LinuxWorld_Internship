@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(page_title="Smart Multi-Calculator", page_icon="🧮", layout="centered")
 
 st.title("🧮 Smart Multi-Calculator (Streamlit Version)")
-st.write("A simple and attractive calculator with extra conversion features.")
+st.write("A basic, good looking calculator with added conversion functions.")
 
 # SELECT MAIN CATEGORY
 
@@ -14,6 +14,7 @@ choice = st.selectbox(
         "Area of Square",
         "Temperature Conversion",
         "Weight Conversion",
+        "Positive/Negative check"
     ]
 )
 
@@ -85,3 +86,16 @@ elif choice == "Weight Conversion":
 
         else:
             st.success(f"{weight} Gram = {weight / 1000} KG")
+
+# 5. Positive/Negative check
+elif choice == "Positive/Negative check":
+    st.subheader("Positive/Negative check")
+    num = st.number_input("Enter a number :")
+
+    if num > 0:
+        st.success(f"Your number {num} is positive")
+    elif num == 0:
+        st.success(f"Your number {num} is zero")
+    else:
+        st.success(f"Your number {num} is negative")
+

@@ -1,4 +1,4 @@
-print("===== SIMPLE NOTEPAD CONSOLE APP =====")
+print("----------SIMPLE NOTEPAD CONSOLE APP --------------")
 
 while True:
     print("""

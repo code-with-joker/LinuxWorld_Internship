@@ -32,7 +32,7 @@ while True:
 
     # TEMPERATURE CONVERSION
     elif operator == "2":
-        sub = input("Choose (a) C→F or (b) F→C: ").lower()
+        sub = input("Choose (a) C -> F or (b) F -> C: ").lower()
 
         try:
             temp = float(input("Enter temperature value: "))
@@ -54,7 +54,7 @@ while True:
 
     # WEIGHT CONVERSION
     elif operator == "3":
-        sub = input("Choose (a) KG→Gram or (b) Gram→KG: ").lower()
+        sub = input("Choose (a) KG -> Gram or (b) Gram -> KG: ").lower()
 
         try:
             weight = float(input("Enter weight value: "))
@@ -105,5 +105,5 @@ while True:
     # CONTINUE?
     again = input("Do you want to calculate again? (yes/no): ").lower()
     if again != "yes":
-        print("Exiting calculator...")
+        print("Stoping calculator...")
         break

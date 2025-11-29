@@ -1,0 +1,41 @@
+1. Calculator – A simple app that performs basic arithmetic operations
+Linkedin- https://www.linkedin.com/posts/kishan-kumar-077409313_streamlit-python-dashboard-activity-7400407633888964608-gBgR?utm_source=share&utm_medium=member_android&rcm=ACoAAE-d3RsBegt4d-_HwdVBmw-4_yP2DP1nfa8
+
+2. ATM PIN System – Validates user PIN and simulates basic ATM actions.
+Linkedin -https://www.linkedin.com/posts/kishan-kumar-077409313_pythonlearning-miniprojects-atmsystem-activity-7400401217845350400-0a8a?utm_source=share&utm_medium=member_android&rcm=ACoAAE-d3RsBegt4d-_HwdVBmw-4_yP2DP1nfa8
+
+3. Unit Converter – Converts temperature, length, weight, and currency values.
+Linkedin - https://www.linkedin.com/posts/kishan-kumar-077409313_streamlit-python-unitconversion-activity-7400410457888460800-QGSN?utm_source=share&utm_medium=member_android&rcm=ACoAAE-d3RsBegt4d-_HwdVBmw-4_yP2DP1nfa8
+
+4. Movie Ticket Booking – Books tickets with seat selection and pricing.
+Linkedin - https://www.linkedin.com/posts/kishan-kumar-077409313_pythonlearning-miniprojects-atmsystem-activity-7400401217845350400-0a8a?utm_source=share&utm_medium=member_android&rcm=ACoAAE-d3RsBegt4d-_HwdVBmw-4_yP2DP1nfa8
+
+5. Positive/Negative Checker – Identifies whether a number is positive, negative, or zero.
+Linkedin - https://www.linkedin.com/posts/kishan-kumar-077409313_streamlit-python-dashboard-activity-7400407633888964608-gBgR?utm_source=share&utm_medium=member_android&rcm=ACoAAE-d3RsBegt4d-_HwdVBmw-4_yP2DP1nfa8
+
+6. File Transfer System using Python
+Linkedin - https://www.linkedin.com/posts/kishan-kumar-077409313_python-based-local-file-transfer-server-activity-7400456377711632384-vP-K?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE-d3RsBegt4d-_HwdVBmw-4_yP2DP1nfa8
+
+7. Interactive Dashboard using Streamlit
+Linkedin - https://www.linkedin.com/posts/kishan-kumar-077409313_streamlit-python-dashboard-activity-7400407633888964608-gBgR?utm_source=share&utm_medium=member_android&rcm=ACoAAE-d3RsBegt4d-_HwdVBmw-4_yP2DP1nfa8
+
+8. AI Chatbot Development
+Linkedin - https://www.linkedin.com/posts/kishan-kumar-077409313_python-internshipjourney-chatbot-activity-7400396424435220480-V0qP?utm_source=share&utm_medium=member_android&rcm=ACoAAE-d3RsBegt4d-_HwdVBmw-4_yP2DP1nfa8
+
+9. Text-to-Speech Tool – Converts typed text into natural-sounding speech
+Linkedin - https://www.linkedin.com/posts/kishan-kumar-077409313_text-to-speech-tts-integration-i-implemented-activity-7400397253145960449-f-gP?utm_source=share&utm_medium=member_android&rcm=ACoAAE-d3RsBegt4d-_HwdVBmw-4_yP2DP1nfa8
+
+10. Building a Game App using Python
+Linkedin - https://www.linkedin.com/posts/kishan-kumar-077409313_python-pygame-gamedevelopment-activity-7400402952386981889-bK2w?utm_source=share&utm_medium=member_android&rcm=ACoAAE-d3RsBegt4d-_HwdVBmw-4_yP2DP1nfa8
+
+11. Flask API Project – Provides REST APIs for data handling and operations.
+Linkedin - https://www.linkedin.com/posts/kishan-kumar-077409313_flask-python-api-activity-7400404502111178752-txdT?utm_source=share&utm_medium=member_android&rcm=ACoAAE-d3RsBegt4d-_HwdVBmw-4_yP2DP1nfa8
+
+12. Email Automation using Python
+Linkedin - https://www.linkedin.com/posts/kishan-kumar-077409313_python-smtp-emailautomation-activity-7400451912233545728-sqPs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE-d3RsBegt4d-_HwdVBmw-4_yP2DP1nfa8
+
+13. SMS Automation using Python
+Linkedin - https://www.linkedin.com/posts/kishan-kumar-077409313_twilio-python-apiintegration-activity-7400451086060331008-nOWD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE-d3RsBegt4d-_HwdVBmw-4_yP2DP1nfa8
+
+14. WhatsApp Messaging Automation using Python
+Linkedin - https://www.linkedin.com/posts/kishan-kumar-077409313_python-internshipjourney-chatbot-activity-7400396424435220480-V0qP?utm_source=share&utm_medium=member_android&rcm=ACoAAE-d3RsBegt4d-_HwdVBmw-4_yP2DP1nfa8

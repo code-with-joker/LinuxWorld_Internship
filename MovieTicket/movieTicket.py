@@ -12,8 +12,8 @@ if age >= 18:
         print("You need a ticket to enter.")
 elif 15 <= age < 18:
     if ticket:
-        print("You can watch the movie but only with a guardian.")
+        print("You can watch the movie but only with your parents.")
     else:
-        print("You must bring a guardian AND a ticket.")
+        print("You must bring a your parents AND a ticket.")
 else:
     print("You are under 15. You can watch only with parents and a valid ticket.")
